@@ -1,4 +1,4 @@
-#HACKING
+# HACKING
 
 The PoliTo company wants to create an application capable of tracking the sales of its products in order to
 identify any counterfeits. The application must analyze the contents of two files. A first file of
